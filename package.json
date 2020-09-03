@@ -1,0 +1,20 @@
+{
+  "name": "football-api",
+  "version": "1.0.0",
+  "description": "API requests from rapidapi.com",
+  "main": "index.js",
+  "dependencies": {
+    "json-csv": "^3.0.1",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "skarp",
+    "football"
+  ],
+  "author": "James Backhouse",
+  "license": "ISC"
+}
